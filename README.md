@@ -29,3 +29,7 @@ emmm,如果将来我真写出了好的demo（梦想总该要有的！），你�
 ![img](https://github.com/Paidalin/BeforeSumm/blob/master/displayed/%E9%83%A8%E7%BD%B2%E5%88%B0%E6%A0%91%E8%8E%93%E6%B4%BE.png)
 ## 行人检测  
 （这次连图片也没了，去文件夹看吧qaq）
+## 第一次玩kaggle  
+（手写体识别，应该是kaggle中的hello world吧，弄了一个上午的时间终于达到了伪第一，1.00000的准确率，第一次玩还是蛮开心的）
+![img](https://github.com/Paidalin/BeforeSumm/blob/master/displayed/TIM%E5%9B%BE%E7%89%8720180620145252.png)
+![img](https://github.com/Paidalin/BeforeSumm/blob/master/displayed/TIM%E5%9B%BE%E7%89%8720180620145448.png)
